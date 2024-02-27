@@ -1,0 +1,50 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+.nav-menu li
+{
+  padding: 10px 20px;
+}
+.nav-menu li a
+{
+    padding: 0px 0px;
+    transition: all 0.5s;
+}
+.nav-menu li a:hover
+{
+    color:#387ed1;
+}
+.btn
+{
+    background-color: #387ed1;
+    transition: all 0.5s;
+}
+.btn:hover
+{
+    background-color: #555;
+}
+.icon li
+{
+    padding: 10px 10px;
+   
+}
+.footer-link li a:hover
+{
+  color: #387ed1;
+}
+.footer-last ul li a:hover
+{
+    color: #387ed1;
+}
+.someimage
+{
+    transition: all 0.5s;
+}
+.someimage:hover
+{
+    opacity:  0.6;
+    cursor: pointer;
+}
